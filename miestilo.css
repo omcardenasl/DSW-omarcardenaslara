@@ -1,0 +1,88 @@
+.contenedor-encabezado{
+ padding: 1px;
+ background-color:#B3B3B3;
+ 
+}
+
+.logo-unad{
+    padding:0px; margin:0;width:116px; float: left;
+}
+.titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.menu {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F0B429;
+    
+    
+  
+;
+    
+}
+a:hover {
+    background-color: #2586d7;
+    margin-top: -2;
+    padding-bottom: 12px;]
+    }
+
+a {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    text-decoration: none;
+    float: left;
+    padding: 12px;
+    color: #fff;
+    text-align: center;
+
+   ;
+        }
+.cont_objetivos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+    background-color:#008fb3;
+    width: 50%; 
+    float: right;
+    text-align: center;
+    
+   
+}
+.objetivos{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12 px;
+    font-weight: 400;
+    color: black;
+    box-sizing: content-box;
+    width: 100%;
+    background-color:#B3B3B3;
+    
+    
+}
+.cont_tematica{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+    background-color:#008fb3;
+    width: 50%; 
+    float: left;
+    text-align: center;
+}
+.tematica{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12 px;
+    font-weight: 400;
+    color: black;
+    box-sizing: content-box;
+    width: 100%;
+    background-color:#808080;
+}
+.pie-pagina{
+    width: 100%;
+    background-color: #F0B429;
+}
